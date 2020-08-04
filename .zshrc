@@ -112,3 +112,5 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+# Alias definitions
+source $HOME/.bashrc_aliases
