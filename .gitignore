@@ -2,7 +2,6 @@
 .cache/
 .cloud-locale-test.skip
 .conda/
-.config/
 .git-credentials
 .gitconfig
 .local/
