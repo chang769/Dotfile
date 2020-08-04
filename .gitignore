@@ -1,2 +1,25 @@
-.config
+.LfCache/
+.cache/
+.cloud-locale-test.skip
+.conda/
+.config/
+.git-credentials
+.gitconfig
+.local/
+.mysql_history
+.oh-my-zsh/
+.profile
+.python_history
+.shell.pre-oh-my-zsh
+.ssh/
+.vim/
+.viminfo
+.zcompdump
+.zcompdump-planet-5.8
+.zsh_history
+anaconda3/
+snap/
+theniceboy/
+tmp/
+zshrc_bk
 
